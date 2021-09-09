@@ -2,4 +2,5 @@ h1 {
   font-size: 40px;
   color: blue;
   box-sizing: border-box;
+  display: block;
 }
